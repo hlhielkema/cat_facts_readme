@@ -18,7 +18,7 @@ on:
   push:
     branches: [ master ]  
   schedule: 
-    - cron:  '*/15 * * * *'
+    - cron:  '0 1 * * *'
 ```
 
 ### Steps
