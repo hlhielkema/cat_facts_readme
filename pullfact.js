@@ -1,4 +1,5 @@
 const https = require('https');
+const fs = require('fs');
 
 var API_URI = 'https://cat-fact.herokuapp.com/facts/random';
 
@@ -20,3 +21,12 @@ function getCatFact(callback)
 getCatFact(function(text) {
     console.log('Fact: ', text);
 })
+
+
+fs.readdir(__dirname, function(err, items) {
+    console.log(items);
+ 
+    for (var i=0; i<items.length; i++) {
+        console.log(items[i]);
+    }
+});
