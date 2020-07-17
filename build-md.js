@@ -18,12 +18,14 @@ function getCatFact(callback)
     });
 }
 
-function writeFact(text) {
+function writeMarkdown(text) {
     fs.writeFile('fact.md', text, function (err) {
-        if (err) return console.log(err);
-        console.log('Hello World > helloworld.txt');
+        if (err) {
+            return console.log(err);
 
-        listFiles();
+            // debug
+            listFiles();
+        }        
     });
 }
 
@@ -37,9 +39,21 @@ function listFiles() {
     });
 }
 
+function readTemplate(callback) {
+    fs.readFile('template.md', 'utf8', function(err, contents) {
+        callback(contents);
+    });
+}
+
 getCatFact(function(text) {
     console.log('Fact: ', text);
-    writeFact(text);
-})
+
+    readTemplate(function(template) {
+
+        template = template.replace('[PLACEHOLDER]', text);
+
+        writeMarkdown(template);
+    });    
+});
 
 

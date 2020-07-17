@@ -15,4 +15,4 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
-    - run: node pullfact.js
+    - run: node build-md.js
