@@ -1,7 +1,8 @@
-# Automated daily cats fact with GitHub actions
+# 🐈 Automated daily cats fact with GitHub actions 🐈
 
+**🐈 Fact of the day: **
 ```
-The world's largest cat measured 48.5 inches long.
+A cat has approximately 60 to 80 million olfactory cells (a human has between 5 and 20 million).
 ```
 
 ---
