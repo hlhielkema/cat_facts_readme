@@ -1,4 +1,4 @@
-# Automated daily cats fact with GitHub actions 🐈
+# Automated daily cat facts with GitHub Actions 🐈
 
 **🐈 Fact of the day:**
 ```

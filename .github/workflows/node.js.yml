@@ -21,7 +21,7 @@ jobs:
       with:
         author_name: H.L. Hielkema
         author_email: hielkehielkema93@gmail.com
-        message: "Update Cat fact"
+        message: "Update Cat fact 🤖"
         add: "*.md"
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
