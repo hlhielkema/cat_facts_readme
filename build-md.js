@@ -41,7 +41,7 @@ function readTemplate(callback) {
 
 function populateTemplate(template, text) {
     console.log('Generate the README contents')
-    template.replace(TEMPLATE_PLACEHOLDER, text);
+    return template.replace(TEMPLATE_PLACEHOLDER, text);
 }
 
 getCatFact(function(text) {
