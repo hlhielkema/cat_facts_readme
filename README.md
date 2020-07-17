@@ -15,3 +15,6 @@ https://github.com/actions/checkout
 
 ### Schedule
 https://docs.github.com/en/actions/reference/events-that-trigger-workflows#schedule
+
+### Add & Commit (GitHub Action)
+https://github.com/marketplace/actions/add-commit
