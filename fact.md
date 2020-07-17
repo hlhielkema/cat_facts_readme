@@ -1,3 +1,7 @@
-# Template
+# Normal info here
 
-Today there are about 100 distinct breeds of the domestic cat.
+
+
+Placeholder below:
+
+Kittens remain with their mother till the age of 9 weeks.
