@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-The Egyptian Mau is the oldest breed of cat, and is the fastest pedigreed cat.
+The oldest cat video on YouTube dates back to 1894.
 ```
 
 ---
