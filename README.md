@@ -1,7 +1,7 @@
 # Automated daily cats fact with GitHub actions
 
 ```
-Cats can't taste sweetness.
+The world's largest cat measured 48.5 inches long.
 ```
 
 ---
