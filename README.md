@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-The irresistable and cuddly Ragamuffin is the result of crossbreeding Ragdoll cats with Persians, Himalayans, and other larger longhaired breeds.
+A cat's brain is 90% similar to a human's — more similar than to a dog's.
 ```
 
 ---
@@ -18,7 +18,7 @@ on:
   push:
     branches: [ master ]  
   schedule: 
-    - cron:  '*/15 * * * *'
+    - cron:  '0 1 * * *'
 ```
 
 ### Steps
