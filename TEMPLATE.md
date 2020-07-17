@@ -1,5 +1,6 @@
-# Automated daily cats fact with GitHub actions
+# 🐈 Automated daily cats fact with GitHub actions 🐈
 
+**🐈 Fact of the day: **
 ```
 [PLACEHOLDER]
 ```
