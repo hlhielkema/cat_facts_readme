@@ -1,8 +1,8 @@
-# Automated daily cats fact with GitHub actions 🐈
+# Automated daily cat facts with GitHub Actions 🐈
 
 **🐈 Fact of the day:**
 ```
-In the wild, lions live for an average of 12 years and up to 16 years. They live up to 25 years in captivity.
+The Egyptian Mau is the oldest breed of cat, and is the fastest pedigreed cat.
 ```
 
 ---
