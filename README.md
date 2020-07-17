@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-The oldest cat video on YouTube dates back to 1894.
+The irresistable and cuddly Ragamuffin is the result of crossbreeding Ragdoll cats with Persians, Himalayans, and other larger longhaired breeds.
 ```
 
 ---
