@@ -1,8 +1,8 @@
-# Automated daily cats fact with GitHub actions 🐈
+# Automated daily cat facts with GitHub Actions 🐈
 
 **🐈 Fact of the day:**
 ```
-In the wild, lions live for an average of 12 years and up to 16 years. They live up to 25 years in captivity.
+The oldest cat video on YouTube dates back to 1894.
 ```
 
 ---
