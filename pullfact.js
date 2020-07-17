@@ -18,15 +18,28 @@ function getCatFact(callback)
     });
 }
 
+function writeFact(text) {
+    fs.writeFile('fact.md', text, function (err) {
+        if (err) return console.log(err);
+        console.log('Hello World > helloworld.txt');
+
+        listFiles();
+    });
+}
+
+function listFiles() {    
+    fs.readdir(__dirname, function(err, items) {
+        console.log(items);
+
+        for (var i=0; i<items.length; i++) {
+            console.log(items[i]);
+        }
+    });
+}
+
 getCatFact(function(text) {
     console.log('Fact: ', text);
+    writeFact(text);
 })
 
 
-fs.readdir(__dirname, function(err, items) {
-    console.log(items);
- 
-    for (var i=0; i<items.length; i++) {
-        console.log(items[i]);
-    }
-});
