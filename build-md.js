@@ -1,10 +1,15 @@
 const https = require('https');
 const fs = require('fs');
 
+// Configuration
 var API_URI = 'https://cat-fact.herokuapp.com/facts/random';
+var TEMPLATE_FILENAME = 'TEMPLATE.md';
+var TEMPLATE_PLACEHOLDER = '[PLACEHOLDER]';
+var TARGET_FILENAME = 'README.md'
 
 function getCatFact(callback)
 {
+    console.log('Fetch cat fact with API');
     https.get(API_URI, (resp) => {
         let data = '';        
         resp.on('data', (chunk) => {
@@ -19,41 +24,30 @@ function getCatFact(callback)
 }
 
 function writeMarkdown(text) {
-    fs.writeFile('fact.md', text, function (err) {
+    console.log('Write ' + TARGET_FILENAME);
+    fs.writeFile(TARGET_FILENAME, text, function (err) {
         if (err) {
             return console.log(err);
-
-            // debug
-            listFiles();
         }        
     });
 }
 
-function listFiles() {    
-    fs.readdir(__dirname, function(err, items) {
-        console.log(items);
-
-        for (var i=0; i<items.length; i++) {
-            console.log(items[i]);
-        }
-    });
-}
-
 function readTemplate(callback) {
-    fs.readFile('template.md', 'utf8', function(err, contents) {
+    console.log('Read ' + TEMPLATE_FILENAME);
+    fs.readFile(TEMPLATE_FILENAME, 'utf8', function(err, contents) {
         callback(contents);
     });
 }
 
+function populateTemplate(template, text) {
+    console.log('Generate the README contents')
+    template.replace(TEMPLATE_PLACEHOLDER, text);
+}
+
 getCatFact(function(text) {
     console.log('Fact: ', text);
-
-    readTemplate(function(template) {
-
-        template = template.replace('[PLACEHOLDER]', text);
-
+    readTemplate(function(template) {                
+        template = populateTemplate(template, text);
         writeMarkdown(template);
     });    
 });
-
-
