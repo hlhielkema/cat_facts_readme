@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-A cat's brain is 90% similar to a human's — more similar than to a dog's.
+Cats can get tapeworms from eating fleas. These worms live inside the cat forever, or until they are removed with medication. They reproduce by shedding a link from the end of their long bodies. This link crawls out the cat's anus, and sheds hundreds of eggs. These eggs are injested by flea larvae, and the cycles continues. Humans may get these tapeworms too, but only if they eat infected fleas. Cats with tapeworms should be dewormed by a veterinarian.
 ```
 
 ---
