@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Cats must have fat in their diet because they can't produce it on their own.
+In ancient Egypt, killing a cat was a crime punishable by death.
 ```
 
 ---
