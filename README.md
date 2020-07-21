@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-In ancient Egypt, killing a cat was a crime punishable by death.
+Exposing cats and dogs to marijuana can help reduce the suffering from a chronic and painful illness.
 ```
 
 ---
