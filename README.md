@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Exposing cats and dogs to marijuana can help reduce the suffering from a chronic and painful illness.
+The fear of cats is called "Ailurophobia"
 ```
 
 ---
