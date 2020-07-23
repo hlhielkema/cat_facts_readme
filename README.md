@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-The fear of cats is called "Ailurophobia"
+Tigers have been hunted for their skin, bones, and other body parts, used in traditional Chinese medicine.
 ```
 
 ---
