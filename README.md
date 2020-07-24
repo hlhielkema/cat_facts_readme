@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Tigers have been hunted for their skin, bones, and other body parts, used in traditional Chinese medicine.
+A cat's jaw has only up and down motion; it does not have any lateral, side to side motion, like dogs and humans.
 ```
 
 ---
