@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-A cat's jaw has only up and down motion; it does not have any lateral, side to side motion, like dogs and humans.
+Los gatos tienen más huesos que los seres humanos, nos ganan por 24.
 ```
 
 ---
