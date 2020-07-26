@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Los gatos tienen más huesos que los seres humanos, nos ganan por 24.
+When a cat drinks, its tongue - which has tiny barbs on it - scoops the liquid up backwards.
 ```
 
 ---
