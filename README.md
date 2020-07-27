@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-When a cat drinks, its tongue - which has tiny barbs on it - scoops the liquid up backwards.
+Georgia O'Keeffe was a celebrated painter, a figurehead of American modernism, a fashion icon, and... a cat owner! O'Keeffe kept a number of animals at her home in New Mexico, including her pet Siamese cat, who appears alongside O'Keeffe in a portrait shot by photographer John Candelario.
 ```
 
 ---
