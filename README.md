@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Georgia O'Keeffe was a celebrated painter, a figurehead of American modernism, a fashion icon, and... a cat owner! O'Keeffe kept a number of animals at her home in New Mexico, including her pet Siamese cat, who appears alongside O'Keeffe in a portrait shot by photographer John Candelario.
+In the original Italian version of Cinderella, the benevolent fairy godmother figure was a cat.
 ```
 
 ---
