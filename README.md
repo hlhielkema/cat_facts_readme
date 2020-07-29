@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-In the original Italian version of Cinderella, the benevolent fairy godmother figure was a cat.
+While two kittens might sound like double trouble, adopting two at a time can actually make your job easier. Two cans can keep each other company, reducing their need for socialization, and they will expend energy by playing together. Kittens in the same litter often form tight sibling bonds.
 ```
 
 ---
