@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-While two kittens might sound like double trouble, adopting two at a time can actually make your job easier. Two cans can keep each other company, reducing their need for socialization, and they will expend energy by playing together. Kittens in the same litter often form tight sibling bonds.
+Scottish sailer Alexander Selkirk once survived for 4 years on a deserted island thanks to feral cats that protected him from large rats during the night.
 ```
 
 ---
