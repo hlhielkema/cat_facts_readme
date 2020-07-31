@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Scottish sailer Alexander Selkirk once survived for 4 years on a deserted island thanks to feral cats that protected him from large rats during the night.
+When cats run, their backs contract and extend to give them maximum stride. Their shoulder blades are not attached with bone, but with muscle, and this gives a cat even greater extension and speed.
 ```
 
 ---
