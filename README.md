@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-When cats run, their backs contract and extend to give them maximum stride. Their shoulder blades are not attached with bone, but with muscle, and this gives a cat even greater extension and speed.
+The Ancient Egyptian word for cat was mau, which means "to see".
 ```
 
 ---
