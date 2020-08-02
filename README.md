@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-The Ancient Egyptian word for cat was mau, which means "to see".
+A cat will spend nearly 30% of her life grooming herself.
 ```
 
 ---
