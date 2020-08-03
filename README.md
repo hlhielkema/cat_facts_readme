@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-A cat will spend nearly 30% of her life grooming herself.
+Has your cat ever brought its prey to your door? Cats do that because they regard their owners as their "kittens." The cats are teaching their "kittens" how to hunt by bringing them food. Most people aren't too delighted when a pet brings in their kill. Instead of punishing your cat, praise it for its efforts, accept the prey, and then secretly throw it away.
 ```
 
 ---
