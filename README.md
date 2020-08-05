@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-All cats have three sets of long hairs that are sensitive to pressure - whiskers, eyebrows,and the hairs between their paw pads.
+A cats field of vision is about 185 degrees.
 ```
 
 ---
