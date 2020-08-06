@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-A cats field of vision is about 185 degrees.
+The more cats are spoken to, the more they will speak back. You will learn a lot from your cat's wide vocabulary of chirps and meows.
 ```
 
 ---
