@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-The more cats are spoken to, the more they will speak back. You will learn a lot from your cat's wide vocabulary of chirps and meows.
+People who own cats have on average 2.1 pets per household, where dog owners have about 1.6.
 ```
 
 ---
