@@ -1,13 +1,14 @@
 # Automated daily cat facts with GitHub Actions 🐈
 
-![tests status](https://github.com/hlhielkema/cat_facts_readme/workflows/Automated%20update%20README/badge.svg)
-
 **🐈 Fact of the day:**
 ```
-Cats lose almost as much fluid in the saliva while grooming themselves as they do through urination.
+Tigers have been hunted for their skin, bones, and other body parts, used in traditional Chinese medicine.
 ```
 
 ---
+
+## Status
+![status](https://github.com/hlhielkema/cat_facts_readme/workflows/Automated%20update%20README/badge.svg)
 
 ## How it works
 This repository uses **GitHub Actions** to automatically update the cat fact in the `README.md`.
