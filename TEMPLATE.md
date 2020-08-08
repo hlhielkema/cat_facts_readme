@@ -1,13 +1,14 @@
 # Automated daily cat facts with GitHub Actions 🐈
 
-![tests status](https://github.com/hlhielkema/cat_facts_readme/workflows/Automated%20update%20README/badge.svg)
-
 **🐈 Fact of the day:**
 ```
 [PLACEHOLDER]
 ```
 
 ---
+
+## Status
+![status](https://github.com/hlhielkema/cat_facts_readme/workflows/Automated%20update%20README/badge.svg)
 
 ## How it works
 This repository uses **GitHub Actions** to automatically update the cat fact in the `README.md`.
