@@ -1,8 +1,10 @@
 # Automated daily cat facts with GitHub Actions 🐈
 
+![tests status](https://github.com/hlhielkema/cat_facts_readme/workflows/Automated%20update%20README/badge.svg)
+
 **🐈 Fact of the day:**
 ```
-In most US states, declawing cats is legal but in the European Union it is not.
+Cats lose almost as much fluid in the saliva while grooming themselves as they do through urination.
 ```
 
 ---
