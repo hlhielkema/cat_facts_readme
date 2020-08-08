@@ -1,5 +1,7 @@
 # Automated daily cat facts with GitHub Actions 🐈
 
+![tests status](https://github.com/hlhielkema/cat_facts_readme/workflows/Automated%20update%20README/badge.svg)
+
 **🐈 Fact of the day:**
 ```
 [PLACEHOLDER]
