@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-People who own cats have on average 2.1 pets per household, where dog owners have about 1.6.
+In most US states, declawing cats is legal but in the European Union it is not.
 ```
 
 ---
