@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Tigers have been hunted for their skin, bones, and other body parts, used in traditional Chinese medicine.
+It was illegal to slay cats in ancient Egypt, in large part because they provided the great service of controlling the rat population.
 ```
 
 ---
