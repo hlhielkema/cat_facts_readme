@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-It was illegal to slay cats in ancient Egypt, in large part because they provided the great service of controlling the rat population.
+The wild-looking but domestic Ocicat is named for its resemblance to the ocelot, a small South American wild cat.
 ```
 
 ---
