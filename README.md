@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Studies now show that the allergen in cats is related to their scent glands. Cats have scent glands on their faces and at the base of their tails. Entire male cats generate the most scent. If this secretion from the scent glands is the allergen, allergic people should tolerate spayed female cats the best.
+Cxcbc.
 ```
 
 ---
