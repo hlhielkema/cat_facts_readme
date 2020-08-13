@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Cxcbc.
+Cats' hearing is much more sensitive than humans and dogs.
 ```
 
 ---
