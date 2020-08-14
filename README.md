@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Cats' hearing is much more sensitive than humans and dogs.
+In Korea and Japan, there is a Cat Cafe where you can go to drink coffee and hang out with cats for hours.
 ```
 
 ---
