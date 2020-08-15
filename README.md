@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-In Korea and Japan, there is a Cat Cafe where you can go to drink coffee and hang out with cats for hours.
+On February 28, 1 980 a female cat climbed 70 feet up the sheer pebble-dash outside wall of a block of flats in Bradford, Yorkshire and took refuge in the roof space. She had been frightened by a dog.
 ```
 
 ---
