@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-On February 28, 1 980 a female cat climbed 70 feet up the sheer pebble-dash outside wall of a block of flats in Bradford, Yorkshire and took refuge in the roof space. She had been frightened by a dog.
+While some cats love being brushed, others don't take to it naturally. Try to groom your cat in the same spot at the same time of day to create a sense of routine.
 ```
 
 ---
