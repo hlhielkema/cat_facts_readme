@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-While some cats love being brushed, others don't take to it naturally. Try to groom your cat in the same spot at the same time of day to create a sense of routine.
+As child Nikola Tesla was inspired to understand the secrets of electricity after being shocked by static electricity from his beloved cat, Macak.
 ```
 
 ---
