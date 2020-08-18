@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-As child Nikola Tesla was inspired to understand the secrets of electricity after being shocked by static electricity from his beloved cat, Macak.
+Towser "The Mouser" of Glenturret Distillery in Crieff, Scotland, holds the Guinness World Record for the most mice caught (28,899).
 ```
 
 ---
