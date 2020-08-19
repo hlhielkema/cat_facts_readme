@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Towser "The Mouser" of Glenturret Distillery in Crieff, Scotland, holds the Guinness World Record for the most mice caught (28,899).
+The domestic cat (Felis catus) is a small, typically furry, carnivorous mammal.
 ```
 
 ---
