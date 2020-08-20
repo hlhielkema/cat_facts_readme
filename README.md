@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-The domestic cat (Felis catus) is a small, typically furry, carnivorous mammal.
+The cat's tail is used to maintain balance.
 ```
 
 ---
