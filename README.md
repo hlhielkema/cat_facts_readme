@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-The cat's tail is used to maintain balance.
+Ancient Egyptian family members shaved their eyebrows in mourning when the family cat died.
 ```
 
 ---
