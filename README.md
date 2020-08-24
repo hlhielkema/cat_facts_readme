@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Adult cats only meow to communicate with humans.
+Unlike other cats, lions have a tuft of hair at the end of their tails.
 ```
 
 ---
