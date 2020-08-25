@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Unlike other cats, lions have a tuft of hair at the end of their tails.
+The first cat show was in 1871 at the Crystal Palace in London.
 ```
 
 ---
