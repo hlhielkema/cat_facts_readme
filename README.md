@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-The first cat show was in 1871 at the Crystal Palace in London.
+Abraham Lincoln loved cats. He kept four of them while he lived in the White House.
 ```
 
 ---
