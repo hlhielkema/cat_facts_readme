@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Abraham Lincoln loved cats. He kept four of them while he lived in the White House.
+A cat will tremble or shiver when it is in extreme pain.
 ```
 
 ---
