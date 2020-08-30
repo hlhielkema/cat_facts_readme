@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Cats have the largest eyes of any mammal.
+Cat families usually play best in even numbers. Cats and kittens should be acquired in pairs whenever possible.
 ```
 
 ---
