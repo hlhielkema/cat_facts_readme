@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Cat families usually play best in even numbers. Cats and kittens should be acquired in pairs whenever possible.
+In the 15th century, Pope Innocent VIII began ordering the killing of cats, pronouncing them demonic.
 ```
 
 ---
