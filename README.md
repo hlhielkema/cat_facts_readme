@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-In the 15th century, Pope Innocent VIII began ordering the killing of cats, pronouncing them demonic.
+On average, a cat will sleep for 16 hours a day.
 ```
 
 ---
