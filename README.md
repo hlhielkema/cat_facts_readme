@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-On average, a cat will sleep for 16 hours a day.
+A cat named Emmy lived aboard the RMS Empress of Ireland and she never missed a voyage. On May 28,1914, however, she refused to board. The ship left without her and then sank the following day.
 ```
 
 ---
