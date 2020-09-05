@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Both humans and cats have identical regions in the brain responsible for emotion.
+Owning a cat can reduce the risk of stroke and heart attack by a third.
 ```
 
 ---
