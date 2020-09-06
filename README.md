@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Owning a cat can reduce the risk of stroke and heart attack by a third.
+Exposure to UV light with hairless or partially-hairless cats can result in sunburn, even during cloudy or shady conditions. If your cat risks overexposure, consider applying sunscreen daily.
 ```
 
 ---
