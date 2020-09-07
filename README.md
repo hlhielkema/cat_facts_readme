@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Exposure to UV light with hairless or partially-hairless cats can result in sunburn, even during cloudy or shady conditions. If your cat risks overexposure, consider applying sunscreen daily.
+In households in the UK and USA, there are more cats kept as pets than dogs. At least 35% of households with cats have 2 or more cats.
 ```
 
 ---
