@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-In households in the UK and USA, there are more cats kept as pets than dogs. At least 35% of households with cats have 2 or more cats.
+Thank to an extremely efficient pair of kidneys, cats can hydrate themselves by drinking salt water.
 ```
 
 ---
