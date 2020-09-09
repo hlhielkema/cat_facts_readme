@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Thank to an extremely efficient pair of kidneys, cats can hydrate themselves by drinking salt water.
+About one in two cats respond to catnip, and only develop a sensitivity to it at around 3 to 6 months of age.
 ```
 
 ---
