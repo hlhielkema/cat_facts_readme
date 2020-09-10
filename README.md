@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-About one in two cats respond to catnip, and only develop a sensitivity to it at around 3 to 6 months of age.
+Approximately 40% of cats have a dominant paw. The rest are ambidextrous.
 ```
 
 ---
