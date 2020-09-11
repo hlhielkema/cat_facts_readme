@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Approximately 40% of cats have a dominant paw. The rest are ambidextrous.
+In just 7 years, one un-spayed female cat and one un-neutered male cat and their offspring can result in 420,000 kittens.
 ```
 
 ---
