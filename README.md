@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-In just 7 years, one un-spayed female cat and one un-neutered male cat and their offspring can result in 420,000 kittens.
+The Maine Coon cat is America's only natural breed of domestic feline. It is 4 to 5 times larger than the Singapura, the smallest breed of cat.
 ```
 
 ---
