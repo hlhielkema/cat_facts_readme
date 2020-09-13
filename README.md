@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-The Maine Coon cat is America's only natural breed of domestic feline. It is 4 to 5 times larger than the Singapura, the smallest breed of cat.
+A cat's normal pulse is 140-240 beats per minute, with an average of 195.
 ```
 
 ---
