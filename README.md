@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-A cat's normal pulse is 140-240 beats per minute, with an average of 195.
+The frequency of a domestic cat's purr is the same at which muscles and bones repair themselves.
 ```
 
 ---
