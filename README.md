@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-The frequency of a domestic cat's purr is the same at which muscles and bones repair themselves.
+Cats have individual preferences for scratching surfaces and angles. Some are horizontal scratchers while others exercise their claws vertically.
 ```
 
 ---
