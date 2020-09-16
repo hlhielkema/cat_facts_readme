@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Cats have individual preferences for scratching surfaces and angles. Some are horizontal scratchers while others exercise their claws vertically.
+The ancient Egyptians were the first to tame the cat (in about 3000 BC), and used them to control pests.
 ```
 
 ---
