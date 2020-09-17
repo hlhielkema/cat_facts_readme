@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-The ancient Egyptians were the first to tame the cat (in about 3000 BC), and used them to control pests.
+Cat can win in fight with dog.
 ```
 
 ---
