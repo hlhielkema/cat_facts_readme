@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Cat can win in fight with dog.
+A cat's whiskers are thought to be a kind of radar, which helps a cat gauge the space it intends to walk through.
 ```
 
 ---
