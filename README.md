@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-After humans, mountain lions have the largest range of any mammal in the Western Hemisphere.
+While Chartreux cats aren't very vocal, they are sociable and communicate through eye contact and body language.
 ```
 
 ---
