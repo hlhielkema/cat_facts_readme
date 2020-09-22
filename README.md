@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-While Chartreux cats aren't very vocal, they are sociable and communicate through eye contact and body language.
+The average lifespan of an outdoor-only (feral and non-feral) is about 3 years; an indoor-only cat can live 16 years and longer. Some cats have been documented to have a longevity of 34 years.
 ```
 
 ---
