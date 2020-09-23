@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-The average lifespan of an outdoor-only (feral and non-feral) is about 3 years; an indoor-only cat can live 16 years and longer. Some cats have been documented to have a longevity of 34 years.
+There are 45 Hemingway cats living at the author's former home in Key West, Fla.
 ```
 
 ---
