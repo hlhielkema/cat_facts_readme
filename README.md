@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-There are 45 Hemingway cats living at the author's former home in Key West, Fla.
+All cats have three sets of long hairs that are sensitive to pressure - whiskers, eyebrows,and the hairs between their paw pads.
 ```
 
 ---
