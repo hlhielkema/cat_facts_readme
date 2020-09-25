@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-All cats have three sets of long hairs that are sensitive to pressure - whiskers, eyebrows,and the hairs between their paw pads.
+Unlike other cats, lions have a tuft of hair at the end of their tails.
 ```
 
 ---
