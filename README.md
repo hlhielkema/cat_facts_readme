@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Unlike other cats, lions have a tuft of hair at the end of their tails.
+The irresistable and cuddly Ragamuffin is the result of crossbreeding Ragdoll cats with Persians, Himalayans, and other larger longhaired breeds.
 ```
 
 ---
