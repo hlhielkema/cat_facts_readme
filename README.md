@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-The irresistable and cuddly Ragamuffin is the result of crossbreeding Ragdoll cats with Persians, Himalayans, and other larger longhaired breeds.
+A cat will spend nearly 30% of her life grooming herself.
 ```
 
 ---
