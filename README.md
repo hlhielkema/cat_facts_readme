@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-A cat will spend nearly 30% of her life grooming herself.
+Russian scientists discovered in the 1930s that Siamese kittens kept in very warm rooms didn't develop the breed's signature dark patches.
 ```
 
 ---
