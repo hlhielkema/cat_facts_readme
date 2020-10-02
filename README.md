@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Russian scientists discovered in the 1930s that Siamese kittens kept in very warm rooms didn't develop the breed's signature dark patches.
+Despite its traditionally wild roots, the Bengal is domestic and will gladly make itself in the indoor "jungle" of your home.
 ```
 
 ---
