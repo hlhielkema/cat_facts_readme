@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Despite its traditionally wild roots, the Bengal is domestic and will gladly make itself in the indoor "jungle" of your home.
+The female cat reaches sexual maturity at around 6 to 10 months and the male cat between 9 and 12 months.
 ```
 
 ---
