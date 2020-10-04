@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-The female cat reaches sexual maturity at around 6 to 10 months and the male cat between 9 and 12 months.
+Ancient sailors believed that cats were magic and would often risk their own lives, even in an "every man for himself" situation, to save a cat from a sinking ship. All ships had at least one ship's cat as cats would eat the rats that have always plagued ships. The ship's cat would often be given a rank and sailors would generally take excessively good care of their cats.
 ```
 
 ---
