@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Many people think that the Turkish Van is simply a color variation of the Turkish Angora, but in fact, they are distinct breeds that developed in different parts of Turkey.
+In ancient Egypt, killing a cat was a crime punishable by death.
 ```
 
 ---
