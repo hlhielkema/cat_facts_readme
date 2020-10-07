@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-In ancient Egypt, killing a cat was a crime punishable by death.
+The collective noun for kittens is a "kindle".
 ```
 
 ---
