@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Mature cats with no health problems are in deep sleep 15 percent of their lives. They are in light sleep 50 percent of the time. That leaves just 35 percent awake time, or roughly 6-8 hours a day.
+Recent studies have shown that cats can see blue and green. There is disagreement as to whether they can see red.
 ```
 
 ---
