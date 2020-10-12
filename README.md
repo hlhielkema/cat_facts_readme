@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-The average litter of kittens is between 2 - 6 kittens.
+"Cat people" are 11% more likely to be introverted than others.
 ```
 
 ---
