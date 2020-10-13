@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-"Cat people" are 11% more likely to be introverted than others.
+A cat has more bones than a human; humans have 206, and the cat - 230.
 ```
 
 ---
