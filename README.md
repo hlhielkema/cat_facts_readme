@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-A cat has more bones than a human; humans have 206, and the cat - 230.
+Approximately 1/3 of cat owners think their pets are able to read their minds.
 ```
 
 ---
