@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Approximately 1/3 of cat owners think their pets are able to read their minds.
+In ancient Egypt, mummies were made of cats, and embalmed mice were placed with them in their tombs. In one ancient city, over 300,000 cat mummies were found.
 ```
 
 ---
