@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-In ancient Egypt, mummies were made of cats, and embalmed mice were placed with them in their tombs. In one ancient city, over 300,000 cat mummies were found.
+The Ancient Egyptian word for cat was mau, which means "to see".
 ```
 
 ---
