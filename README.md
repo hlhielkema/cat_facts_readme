@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-The Ancient Egyptian word for cat was mau, which means "to see".
+Among the British government officials who keep things running smoothly at 10 Downing Street is Larry, a cat that holds the distinguished position of Chief Mouser. Larry's duties, according to the U.K. government, include "greeting guests", "testing antique furniture for napping quality", and "contemplating a solution to the mouse occupancy of the house.".
 ```
 
 ---
