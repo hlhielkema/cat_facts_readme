@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Z.
+Female cats are "polyestrous," which means they may have many heat periods over the course of a year. A heat period lasts about 4 to 7 days if the female is bred; if she is not, the heat period lasts longer and recurs at regular intervals.
 ```
 
 ---
