@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Female cats are "polyestrous," which means they may have many heat periods over the course of a year. A heat period lasts about 4 to 7 days if the female is bred; if she is not, the heat period lasts longer and recurs at regular intervals.
+It may take as long as 2 weeks for a kitten to be able to hear well.  Their eyes usually open between 7 and 10 days, but sometimes it happens in as little as 2 days.
 ```
 
 ---
