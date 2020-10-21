@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-It may take as long as 2 weeks for a kitten to be able to hear well.  Their eyes usually open between 7 and 10 days, but sometimes it happens in as little as 2 days.
+Cats lap liquid from the underside of their tongue, not from the top.
 ```
 
 ---
