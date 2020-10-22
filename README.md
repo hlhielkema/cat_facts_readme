@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Cats lap liquid from the underside of their tongue, not from the top.
+In one stride, a cheetah can cover 23 to 26 feet (7 to 8 meters).
 ```
 
 ---
