@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-In one stride, a cheetah can cover 23 to 26 feet (7 to 8 meters).
+Cats have scent glands along their tail, their forehead, lips, chin, and the underside of their front paws.
 ```
 
 ---
