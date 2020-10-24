@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Cats have scent glands along their tail, their forehead, lips, chin, and the underside of their front paws.
+1123405258.
 ```
 
 ---
