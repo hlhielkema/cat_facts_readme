@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-1123405258.
+Cat can fight with dog.
 ```
 
 ---
