@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Ancient sailors believed that cats were magic and would often risk their own lives, even in an "every man for himself" situation, to save a cat from a sinking ship. All ships had at least one ship's cat as cats would eat the rats that have always plagued ships. The ship's cat would often be given a rank and sailors would generally take excessively good care of their cats.
+A tomcat (male cat) can begin mating when he is between 7 and 10 months old.
 ```
 
 ---
