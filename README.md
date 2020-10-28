@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-A tomcat (male cat) can begin mating when he is between 7 and 10 months old.
+Approximately 40% of cats have a dominant paw. The rest are ambidextrous.
 ```
 
 ---
