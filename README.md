@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Approximately 40% of cats have a dominant paw. The rest are ambidextrous.
+There are 45 Hemingway cats living at the author's former home in Key West, Fla.
 ```
 
 ---
