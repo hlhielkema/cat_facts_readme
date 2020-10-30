@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-There are 45 Hemingway cats living at the author's former home in Key West, Fla.
+In 1987 cats overtook dogs as the number one pet in America.
 ```
 
 ---
