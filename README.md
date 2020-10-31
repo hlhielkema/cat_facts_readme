@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-In 1987 cats overtook dogs as the number one pet in America.
+If a cat is frightened, the hair stands up fairly evenly all over the body; when the cat is threatened or is ready to attack, the hair stands up only in a narrow band along the spine and tail.
 ```
 
 ---
