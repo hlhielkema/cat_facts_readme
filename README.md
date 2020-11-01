@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-If a cat is frightened, the hair stands up fairly evenly all over the body; when the cat is threatened or is ready to attack, the hair stands up only in a narrow band along the spine and tail.
+The silks created by weavers in Baghdad were inspired by the beautiful and varied colors and markings of cat coats. These fabrics were called "tabby" by European traders.
 ```
 
 ---
