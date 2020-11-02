@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-The silks created by weavers in Baghdad were inspired by the beautiful and varied colors and markings of cat coats. These fabrics were called "tabby" by European traders.
+A cat's purr may be a form of self-healing, as it can be a sign of nervousness as well as contentment.
 ```
 
 ---
