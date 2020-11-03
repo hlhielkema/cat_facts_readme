@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-A cat's purr may be a form of self-healing, as it can be a sign of nervousness as well as contentment.
+A cat can sprint at about thirty-one miles per hour.
 ```
 
 ---
