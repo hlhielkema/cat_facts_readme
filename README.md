@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-A cat can sprint at about thirty-one miles per hour.
+People who own cats have on average 2.1 pets per household, where dog owners have about 1.6.
 ```
 
 ---
