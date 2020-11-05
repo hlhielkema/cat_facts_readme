@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-People who own cats have on average 2.1 pets per household, where dog owners have about 1.6.
+GitHub is a cloud source version control system where its mascot is an octocat, an anthropomorphized cat with five tentacles.
 ```
 
 ---
