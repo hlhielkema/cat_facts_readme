@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-GitHub is a cloud source version control system where its mascot is an octocat, an anthropomorphized cat with five tentacles.
+Cats love womans, dog loves mans.
 ```
 
 ---
