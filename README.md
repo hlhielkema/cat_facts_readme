@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Cats love womans, dog loves mans.
+The ability of a cat to reflexively twist its body and balance itself during a fall is known as the "cat righting reflex".
 ```
 
 ---
