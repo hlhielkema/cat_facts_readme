@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-The ability of a cat to reflexively twist its body and balance itself during a fall is known as the "cat righting reflex".
+Cats can judge within 3 inches the precise location of a sound being made 1 yard away.
 ```
 
 ---
