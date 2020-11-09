@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Cats can judge within 3 inches the precise location of a sound being made 1 yard away.
+Cats have been domesticated for half as long as dogs have been.
 ```
 
 ---
