@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Cats have been domesticated for half as long as dogs have been.
+Cats step with both left legs, then both right legs when they walk or run.
 ```
 
 ---
