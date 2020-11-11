@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Cats step with both left legs, then both right legs when they walk or run.
+The average cat sleeps between 12-14 hours a day.
 ```
 
 ---
