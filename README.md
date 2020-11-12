@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-The average cat sleeps between 12-14 hours a day.
+Cats lack antibodies against dog blood so they can only receive it via a transfusion once. The second time would kill them.
 ```
 
 ---
