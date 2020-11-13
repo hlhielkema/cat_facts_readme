@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Cats lack antibodies against dog blood so they can only receive it via a transfusion once. The second time would kill them.
+Norwegian Forest Cats are usually very people friendly.
 ```
 
 ---
