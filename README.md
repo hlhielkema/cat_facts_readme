@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Norwegian Forest Cats are usually very people friendly.
+Tabby cats are thought to get their name from Attab, a district in Baghdad, now the capital of Iraq.
 ```
 
 ---
