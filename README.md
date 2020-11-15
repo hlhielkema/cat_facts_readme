@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-A tortoiseshell is black with red or orange markings and a calico is white with patches of red, orange and black.
+Some notable people who disliked cats:  Napoleon Bonaparte, Dwight D. Eisenhower, Hitler, Dylan Orrell.
 ```
 
 ---
