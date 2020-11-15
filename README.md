@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Tabby cats are thought to get their name from Attab, a district in Baghdad, now the capital of Iraq.
+A tortoiseshell is black with red or orange markings and a calico is white with patches of red, orange and black.
 ```
 
 ---
