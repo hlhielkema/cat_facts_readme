@@ -23,6 +23,7 @@ on:
   schedule: 
     - cron:  '0 1 * * *'
 ```
+> **WARNING:** I updated the GitHub action in this repository to run once a month to prevent creating too many commit.
 
 ### Steps
 - Checkout the repository
