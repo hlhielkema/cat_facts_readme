@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-A cat was mayor of Talkeetna, Alaska, for 20 years. His name is Stubbs, and he died on July 23, 2017.
+Cats have a longer-term memory than dogs, especially when they learn by actually doing rather than simply seeing.
 ```
 
 ---
