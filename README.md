@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Cats have a longer-term memory than dogs, especially when they learn by actually doing rather than simply seeing.
+If a cat is frightened, put your hand over its eyes and forehead, or let him bury his head in your armpit to help calm him.
 ```
 
 ---
