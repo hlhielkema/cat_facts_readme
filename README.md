@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-If a cat is frightened, put your hand over its eyes and forehead, or let him bury his head in your armpit to help calm him.
+The Abyssinian, the Siamese, and the American Shorthair were crossbred to produce the Ocicat breed.
 ```
 
 ---
