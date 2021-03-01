@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-The Abyssinian, the Siamese, and the American Shorthair were crossbred to produce the Ocicat breed.
+A cat’s eyesight is both better and worse than humans. It is better because cats can see in much dimmer light and they have a wider peripheral view. It’s worse because they don’t see color as well as humans do. Scientists believe grass appears red to cats.
 ```
 
 ---
