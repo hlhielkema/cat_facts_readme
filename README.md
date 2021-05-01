@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-As child Nikola Tesla was inspired to understand the secrets of electricity after being shocked by static electricity from his beloved cat, Macak.
+Cats come back to full alertness from the sleep state faster than any other creature.
 ```
 
 ---
