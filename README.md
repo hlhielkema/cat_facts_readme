@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Cats come back to full alertness from the sleep state faster than any other creature.
+A new test cat fact.
 ```
 
 ---
