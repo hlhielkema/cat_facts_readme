@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-While two kittens might sound like double trouble, adopting two at a time can actually make your job easier. Two cans can keep each other company, reducing their need for socialization, and they will expend energy by playing together. Kittens in the same litter often form tight sibling bonds.
+A cat almost never meows at another cat, mostly just humans. Cats typically will spit, purr, and hiss at other cats.
 ```
 
 ---
