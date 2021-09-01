@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-A cat almost never meows at another cat, mostly just humans. Cats typically will spit, purr, and hiss at other cats.
+A cat called Dusty has the known record for the most kittens. She had more than 420 kittens in her lifetime.
 ```
 
 ---
