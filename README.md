@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-A cat called Dusty has the known record for the most kittens. She had more than 420 kittens in her lifetime.
+A cat can spend five or more hours a day grooming himself.
 ```
 
 ---
