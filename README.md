@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-A cat can spend five or more hours a day grooming himself.
+Mountain lions are strong jumpers, thanks to muscular hind legs that are longer than their front legs.
 ```
 
 ---
