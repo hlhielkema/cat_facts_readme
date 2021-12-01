@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Mountain lions are strong jumpers, thanks to muscular hind legs that are longer than their front legs.
+A 2007 Gallup poll revealed that both men and women were equally likely to own a cat.
 ```
 
 ---
