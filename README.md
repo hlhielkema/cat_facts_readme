@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-A 2007 Gallup poll revealed that both men and women were equally likely to own a cat.
+A cat lover is called an Ailurophilia (Greek: cat+lover).
 ```
 
 ---
