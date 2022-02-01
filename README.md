@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-A cat lover is called an Ailurophilia (Greek: cat+lover).
+The technical term for a cat’s hairball is a “bezoar.”
 ```
 
 ---
