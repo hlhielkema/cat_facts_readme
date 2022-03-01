@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-The technical term for a cat’s hairball is a “bezoar.”
+When a domestic cat goes after mice, about 1 pounce in 3 results in a catch.
 ```
 
 ---
