@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-When a domestic cat goes after mice, about 1 pounce in 3 results in a catch.
+Phoenician cargo ships are thought to have brought the first domesticated cats to Europe in about 900 BC.
 ```
 
 ---
