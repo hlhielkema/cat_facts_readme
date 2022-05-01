@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Phoenician cargo ships are thought to have brought the first domesticated cats to Europe in about 900 BC.
+A commemorative tower was built in Scotland for a cat named Towser, who caught nearly 30,000 mice in her lifetime.
 ```
 
 ---
