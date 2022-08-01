@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-In just 7 years, one un-spayed female cat and one un-neutered male cat and their offspring can result in 420,000 kittens.
+Some notable people who disliked cats:  Napoleon Bonaparte, Dwight D. Eisenhower, Hitler.
 ```
 
 ---
