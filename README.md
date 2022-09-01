@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Some notable people who disliked cats:  Napoleon Bonaparte, Dwight D. Eisenhower, Hitler.
+Miacis, the primitive ancestor of cats, was a small, tree-living creature of the late Eocene period, some 45 to 50 million years ago.
 ```
 
 ---
