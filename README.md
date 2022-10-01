@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Miacis, the primitive ancestor of cats, was a small, tree-living creature of the late Eocene period, some 45 to 50 million years ago.
+A cat's appetite is the barometer of its health. Any cat that does not eat or drink for more than two days should be taken to a vet.
 ```
 
 ---
