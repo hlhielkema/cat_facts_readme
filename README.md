@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-A cat's appetite is the barometer of its health. Any cat that does not eat or drink for more than two days should be taken to a vet.
+A female cat will be pregnant for approximately 9 weeks or between 62 and 65 days from conception to delivery.
 ```
 
 ---
