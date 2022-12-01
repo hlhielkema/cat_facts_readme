@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-A female cat will be pregnant for approximately 9 weeks or between 62 and 65 days from conception to delivery.
+A cat has approximately 60 to 80 million olfactory cells (a human has between 5 and 20 million).
 ```
 
 ---
