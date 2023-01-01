@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-A cat has approximately 60 to 80 million olfactory cells (a human has between 5 and 20 million).
+In ancient Egypt, when a family cat died, all family members would shave their eyebrows as a sign of mourning.
 ```
 
 ---
