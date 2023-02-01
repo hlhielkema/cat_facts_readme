@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-In ancient Egypt, when a family cat died, all family members would shave their eyebrows as a sign of mourning.
+The first commercially cloned pet was a cat named "Little Nicky." He cost his owner $50,000, making him one of the most expensive cats ever.
 ```
 
 ---
