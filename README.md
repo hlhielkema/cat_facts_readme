@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Owning a cat is actually proven to be beneficial for your health.
+Cats have 30 vertebrae (humans have 33 vertebrae during early development; 26 after the sacral and coccygeal regions fuse)
 ```
 
 ---
