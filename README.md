@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Cats have 30 vertebrae (humans have 33 vertebrae during early development; 26 after the sacral and coccygeal regions fuse)
+The Maine Coone is the only native American long haired breed.
 ```
 
 ---
