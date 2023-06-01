@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-The Maine Coone is the only native American long haired breed.
+Some notable people who disliked cats:  Napoleon Bonaparte, Dwight D. Eisenhower, Hitler.
 ```
 
 ---
