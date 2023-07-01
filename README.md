@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Some notable people who disliked cats:  Napoleon Bonaparte, Dwight D. Eisenhower, Hitler.
+A cat’s back is extremely flexible because it has up to 53 loosely fitting vertebrae. Humans only have 34.
 ```
 
 ---
