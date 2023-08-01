@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-A cat’s back is extremely flexible because it has up to 53 loosely fitting vertebrae. Humans only have 34.
+A cat can sprint at about thirty-one miles per hour.
 ```
 
 ---
