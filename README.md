@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-A cat can sprint at about thirty-one miles per hour.
+Unlike other cats, lions have a tuft of hair at the end of their tails.
 ```
 
 ---
