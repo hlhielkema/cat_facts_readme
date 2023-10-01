@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Unlike other cats, lions have a tuft of hair at the end of their tails.
+A cat has more bones than a human being; humans have 206 and the cat has 230 bones.
 ```
 
 ---
