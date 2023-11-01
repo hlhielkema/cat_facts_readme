@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-A cat has more bones than a human being; humans have 206 and the cat has 230 bones.
+One reason that kittens sleep so much is because a growth hormone is released only during sleep.
 ```
 
 ---
