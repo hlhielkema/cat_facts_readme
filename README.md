@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-One reason that kittens sleep so much is because a growth hormone is released only during sleep.
+Jaguars are the only big cats that don't roar.
 ```
 
 ---
