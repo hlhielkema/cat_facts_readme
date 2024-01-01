@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Jaguars are the only big cats that don't roar.
+Many cats love having their forehead gently stroked.
 ```
 
 ---
