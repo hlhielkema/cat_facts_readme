@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Many cats love having their forehead gently stroked.
+There are approximately 100 breeds of cat.
 ```
 
 ---
