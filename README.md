@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-There are approximately 100 breeds of cat.
+Cats are extremely sensitive to vibrations. Cats are said to detect earthquake tremors 10 or 15 minutes before humans can.
 ```
 
 ---
