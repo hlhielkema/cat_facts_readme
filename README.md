@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Cats are extremely sensitive to vibrations. Cats are said to detect earthquake tremors 10 or 15 minutes before humans can.
+The cat's footpads absorb the shocks of the landing when the cat jumps.
 ```
 
 ---
