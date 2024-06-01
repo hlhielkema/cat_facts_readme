@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-A cat called Dusty has the known record for the most kittens. She had more than 420 kittens in her lifetime.
+A commemorative tower was built in Scotland for a cat named Towser, who caught nearly 30,000 mice in her lifetime.
 ```
 
 ---
