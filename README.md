@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-A commemorative tower was built in Scotland for a cat named Towser, who caught nearly 30,000 mice in her lifetime.
+Unlike other cats, lions have a tuft of hair at the end of their tails.
 ```
 
 ---
