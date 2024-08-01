@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Unlike other cats, lions have a tuft of hair at the end of their tails.
+The Pilgrims were the first to introduce cats to North America.
 ```
 
 ---
