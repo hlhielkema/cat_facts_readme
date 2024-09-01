@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-The Pilgrims were the first to introduce cats to North America.
+In Ancient Egypt, when a person's house cat passed away, the owner would shave their eyebrows to reflect their grief.
 ```
 
 ---
