@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-In Ancient Egypt, when a person's house cat passed away, the owner would shave their eyebrows to reflect their grief.
+Long, muscular hind legs enable snow leopards to leap seven times their own body length in a single bound.
 ```
 
 ---
