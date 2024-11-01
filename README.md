@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Long, muscular hind legs enable snow leopards to leap seven times their own body length in a single bound.
+When a cats rubs up against you, the cat is marking you with it's scent claiming ownership.
 ```
 
 ---
