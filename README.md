@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-When a cats rubs up against you, the cat is marking you with it's scent claiming ownership.
+Many Egyptians worshipped the goddess Bast, who had a woman’s body and a cat’s head.
 ```
 
 ---
