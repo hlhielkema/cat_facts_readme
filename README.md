@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Many Egyptians worshipped the goddess Bast, who had a woman’s body and a cat’s head.
+The first cat show was in 1871 at the Crystal Palace in London.
 ```
 
 ---
