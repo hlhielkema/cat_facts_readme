@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-The first cat show was in 1871 at the Crystal Palace in London.
+In Ancient Egypt, when a person's house cat passed away, the owner would shave their eyebrows to reflect their grief.
 ```
 
 ---
