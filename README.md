@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-In Ancient Egypt, when a person's house cat passed away, the owner would shave their eyebrows to reflect their grief.
+Jaguars are the only big cats that don't roar.
 ```
 
 ---
