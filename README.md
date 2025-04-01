@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Jaguars are the only big cats that don't roar.
+Unlike dogs, cats do not have a sweet tooth. Scientists believe this is due to a mutation in a key taste receptor.
 ```
 
 ---
