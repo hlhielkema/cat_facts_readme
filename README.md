@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Unlike dogs, cats do not have a sweet tooth. Scientists believe this is due to a mutation in a key taste receptor.
+Cats' hearing stops at 65 khz (kilohertz); humans' hearing stops at 20 khz.
 ```
 
 ---
