@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Cats' hearing stops at 65 khz (kilohertz); humans' hearing stops at 20 khz.
+Cats and kittens should be acquired in pairs whenever possible as cat families interact best in pairs.
 ```
 
 ---
