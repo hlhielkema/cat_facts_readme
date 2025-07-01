@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Cats and kittens should be acquired in pairs whenever possible as cat families interact best in pairs.
+Cats take between 20-40 breaths per minute.
 ```
 
 ---
