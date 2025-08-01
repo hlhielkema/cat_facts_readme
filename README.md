@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Cats take between 20-40 breaths per minute.
+The strongest climber among the big cats, a leopard can carry prey twice its weight up a tree.
 ```
 
 ---
