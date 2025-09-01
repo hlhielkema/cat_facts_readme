@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-The strongest climber among the big cats, a leopard can carry prey twice its weight up a tree.
+Cats have "nine lives" thanks to a flexible spine and powerful leg and back muscles
 ```
 
 ---
