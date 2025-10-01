@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Cats have "nine lives" thanks to a flexible spine and powerful leg and back muscles
+A cat’s jaw can’t move sideways, so a cat can’t chew large chunks of food.
 ```
 
 ---
