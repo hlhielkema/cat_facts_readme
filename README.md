@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-A cat’s jaw can’t move sideways, so a cat can’t chew large chunks of food.
+Cats have 32 muscles that control the outer ear (humans have only 6). A cat can independently rotate its ears 180 degrees.
 ```
 
 ---
