@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Cats come back to full alertness from the sleep state faster than any other creature.
+Jaguars are the only big cats that don't roar.
 ```
 
 ---
