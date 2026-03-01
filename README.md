@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Female felines are \superfecund
+Blue-eyed, white cats are often prone to deafness.
 ```
 
 ---
