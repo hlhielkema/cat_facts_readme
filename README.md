@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Blue-eyed, white cats are often prone to deafness.
+There are approximately 100 breeds of cat.
 ```
 
 ---
