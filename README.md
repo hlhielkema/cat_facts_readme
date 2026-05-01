@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-There are approximately 100 breeds of cat.
+In Siam, the cat was so revered that one rode in a chariot at the head of a parade celebrating the new king.
 ```
 
 ---
