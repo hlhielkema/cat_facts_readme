@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-In Siam, the cat was so revered that one rode in a chariot at the head of a parade celebrating the new king.
+A cat’s back is extremely flexible because it has up to 53 loosely fitting vertebrae. Humans only have 34.
 ```
 
 ---
