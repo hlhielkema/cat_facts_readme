@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-A cat’s back is extremely flexible because it has up to 53 loosely fitting vertebrae. Humans only have 34.
+The cheetah is the world's fastest land mammal. It can run at speeds of up to 70 miles an hour (113 kilometers an hour).
 ```
 
 ---
