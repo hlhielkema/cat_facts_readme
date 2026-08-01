@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-The cheetah is the world's fastest land mammal. It can run at speeds of up to 70 miles an hour (113 kilometers an hour).
+It is estimated that cats can make over 60 different sounds.
 ```
 
 ---
