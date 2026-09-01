@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-It is estimated that cats can make over 60 different sounds.
+Cats respond most readily to names that end in an \ee\" sound."""
 ```
 
 ---
