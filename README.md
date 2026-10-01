@@ -2,7 +2,7 @@
 
 **🐈 Fact of the day:**
 ```
-Cats respond most readily to names that end in an \ee\" sound."""
+In one stride, a cheetah can cover 23 to 26 feet (7 to 8 meters).
 ```
 
 ---
